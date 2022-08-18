@@ -1,0 +1,8 @@
+.idea
+/weights/
+/output/
+/logs/
+/data/
+/assets/
+/checkpoints/
+/config/
